@@ -8,9 +8,9 @@ Neste relatório mostramos as 15 consultas (DQL) que fizemos no banco `hospital_
 
 | Arquivo | Conteúdo |
 | --- | --- |
-| `01_ddl_hospital.sql` | Criação do banco, tabelas, relacionamentos e regras (DDL) |
-| `02_dml_popular_hospital.sql` | Carga de dados de teste (DML) |
-| `03_dql_consultas.sql` | As 15 consultas (DQL) |
+| `ddl_hospital.sql` | Criação do banco, tabelas, relacionamentos e regras (DDL) |
+| `dml_popular_hospital.sql` | Carga de dados de teste (DML) |
+| `dql_consultas.sql` | As 15 consultas (DQL) |
 | `README.md` | Este relatório |
 
 ## Como executar
