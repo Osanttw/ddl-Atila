@@ -61,7 +61,7 @@ INNER JOIN quartos q ON i.id_quarto = q.id_quarto
 ORDER BY i.data_entrada;
 ```
 
-Resultado: 10 internações. A primeira é João Pedro Silva, quarto 102, 1º andar, entrada em 15/01/2026, diária de R$ 200,00.
+Resultado: 10 internações. A primeira é João Pedro Silva, quarto 102, 1º andar, entrada em 15/01/2026, diária de R$ 200,00
 
 **3) Recepção:** pacientes, convênios, médicos que atenderam e especialidades.
 
