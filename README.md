@@ -18,9 +18,9 @@ Neste relatório mostramos as 15 consultas (DQL) que fizemos no banco `hospital_
 Execute os scripts nesta ordem:
 
 ```bash
-mysql -u root -p < 01_ddl_hospital.sql
-mysql -u root -p < 02_dml_popular_hospital.sql
-mysql -u root -p < 03_dql_consultas.sql
+mysql -u root -p < ddl_hospital.sql
+mysql -u root -p < dml_popular_hospital.sql
+mysql -u root -p < dql_consultas.sql
 ```
 
 ## Banco utilizado
